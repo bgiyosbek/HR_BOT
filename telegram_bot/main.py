@@ -39,7 +39,7 @@ def save_user_data(user_id, user_info):
         json.dump(users, file, indent=4)
 
 # Replace with your Telegram Bot Token
-TOKEN = "7516315533:AAErgTz6uukUelNUeUJRu0lS1Ht0BpEyFgo"
+TOKEN = ""
 
 menu_tree = {
     "main": None,
