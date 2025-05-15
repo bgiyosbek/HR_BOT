@@ -1,0 +1,18 @@
+{
+    "123456789": {
+        "full_name": "John Doe",
+        "birthday": "25-12-2000",
+        "address": "New York"
+    },
+    "987654321": {
+        "full_name": "Alice Smith",
+        "birthday": "01-01-1995",
+        "address": "London"
+    },
+    "930481227": {
+        "full_name": "Berdiyarov Giyosbek Golibjon ogli",
+        "birthday": "12.10.2002",
+        "address": "istiqbol mfy gulsevarlar kochasi 8 uy",
+        "qo\u2018shimcha": "ishimga masuiyatliman"
+    }
+}
